@@ -45,6 +45,8 @@ ORDER BY
   order_year,
   order_month;
 ```
+![{1387D11F-468C-4FB6-ADE5-17A486738793}](https://github.com/user-attachments/assets/12d5b453-ecdd-437c-9023-8824ec884334)
+![{F2A33982-A53E-4A75-B467-04D964109162}](https://github.com/user-attachments/assets/f7b92d7c-039a-43d4-ac66-c2684859b410)
 
 ## Usage
 
