@@ -1,4 +1,4 @@
-# task-6
+# Task-6
 Sure! Here’s a clean, professional README description you can use for your GitHub repo related to the **online\_sales** table and the query you’re working with:
 
 ---
